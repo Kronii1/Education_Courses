@@ -1,4 +1,4 @@
-@import url(./reset.css);
+@import url("/styles/reset.css");
 body {
   background-color: #dce6d1;
   display: flex;
